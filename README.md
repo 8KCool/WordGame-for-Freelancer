@@ -4,8 +4,8 @@ This is final results for you
 You can check my reult from image 
 
 # My contact info
-Skype: live:.cid.1ffd865926fd1124
-discord: 8KLancer#6824 (I am always in here)
+Skype: live:.cid.1ffd865926fd1124 <br>
+discord: 8KLancer#6824 (I am always in here)<br>
 Telegram
 
 <img src="./Screenshot_3.png" />
